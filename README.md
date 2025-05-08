@@ -68,32 +68,47 @@ Je continue d’approfondir mes compétences techniques pour intervenir sur des 
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| **SM-Shield** | Backend TypeScript / CI-CD complet (GitHub Actions, Docker, AWS, Azure) | [Voir le projet](#) |
+| **SM-Shield** | Backend TypeScript / CI-CD complet (GitHub Actions, Docker, AWS, Azure) | *(Privé pour l’instant)* |
 | **MBDA (confidentiel)** | Backend Java + Obfuscation / Tests Unitaires | *(Non public)* |
-| **Carnet d’ordres (Finance)** | Simulation haute fréquence en C++ | [Voir le projet](#) |
-| **Cybersécurité - CTF & Audits** | Cryptographie, Reverse, Web Exploit & Audit Infra | [Voir le projet](#) |
-
-
----
-
-## 📚 Certifications en cours
-
-- TryHackMe → Niveau intermédiaire
-- HackTheBox → Débutant / Intermédiaire
-- Certification équivalente CCNA Level 1 (2021)
+| **Carnet d’ordres (Finance)** | Simulation haute fréquence en C++ | *(Bientôt en ligne)* |
+| **Projet ORION (Simulation spatiale)** | Mécanique orbitale, visualisation 3D, moteur de physique | *(Bientôt en ligne)* |
+| **Web Security CTF** | Vulnérabilités Web courantes (XSS, SQLi, XXE...) | [Voir](https://github.com/pierre-dallara/web-security-ctf) |
+| **Cryptographie CTF** | Résolution de challenges : Caesar, Vigenère, AES, RSA... | [Voir](https://github.com/pierre-dallara/cryptography-ctf) |
+| **Reverse Engineering CTF** | Décompilation & exploitation de binaires | [Voir](https://github.com/pierre-dallara/reverse-engineering-ctf) |
+| **Audit d’infrastructure Offensive** | Pentest interne, analyse de vulnérabilités & rapport | [Voir](https://github.com/pierre-dallara/offensive-security-infra-audit) |
 
 ---
 
+## 🧠 Plateformes de formation continue
+
+### TryHackMe
+🎯 Rang : `Intermédiaire` — 36 rooms complétées  
+🧩 Web Exploit / Pentest / Network & OS / Metasploit / Burp Suite  
+🔗 [Voir mon profil](https://tryhackme.com/p/pierre.dallara)
+
+### Root-Me
+🎯 Rang : `Intermédiaire` — 75 challenges résolus (Web, Reverse, Crypto, Réseau)  
+🔗 [Voir mon profil](https://www.root-me.org/pi2r)
+
+### Hack The Box
+🎯 Rang : `Intermédiaire` — Focus sur Network Pentest, Red Teaming et Reverse Engineering  
+
+---
+
+## 📄 Autres
+
+- Certification équivalente **Cisco CCNA Level 1** (2021)
+- 🚧 Projets supplémentaires à venir sur mon GitHub
+- 🚧 Portfolio en cours de finalisation (sera lié ici)
+
+---
 
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-dallara/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/pierre-dallara)
 [![Mail](https://img.shields.io/badge/-Mail-D14836?logo=gmail&logoColor=white)](mailto:pierre.dallara@gmail.com)
 
 ---
-
-> 🚧 Portfolio en cours (sera lié ici dès publication officielle)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1d0a3b&height=100&section=footer" alt="footer"/>
