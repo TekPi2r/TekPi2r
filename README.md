@@ -68,7 +68,7 @@ Je continue d’approfondir mes compétences techniques pour intervenir sur des 
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| **SM-Shield** | Backend TypeScript / CI-CD complet (GitHub Actions, Docker, AWS, Azure) | *(Privé pour l’instant)* |
+| **SM-Shield** | Backend TypeScript / CI-CD complet (GitHub Actions, Docker, AWS, Azure) | *(Privé)* |
 | **MBDA (confidentiel)** | Backend Java + Obfuscation / Tests Unitaires | *(Non public)* |
 | **Carnet d’ordres (Finance)** | Simulation haute fréquence en C++ | *(Bientôt en ligne)* |
 | **Projet ORION (Simulation spatiale)** | Mécanique orbitale, visualisation 3D, moteur de physique | *(Bientôt en ligne)* |
