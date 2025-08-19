@@ -2,9 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1d0a3b&height=250&section=header&text=Pierre%20Dallara&fontSize=42&fontColor=ffffff" alt="banner"/>
 </p>
 
-# 👨‍💻 Ingénieur Logiciel | Backend | DevOps | Cybersécurité
+# 👨‍💻 Ingénieur DevSecOps | Cybersécurité (SOC) | DevOps
 
-Développeur back-end passionné par les systèmes **fiables**, **performants** et **sécurisés**, avec une forte appétence pour la **Cybersécurité** et le **DevOps**.
+Passionné par le cloud, l’automatisation et la sécurité.
+Spécialisé Cloud AWS, CI/CD et sécurité applicative.
+Expertise en conteneurisation, infrastructure as code (Terraform), cybersécurité
+offensive/défensive.
 
 J’ai contribué à des projets critiques chez **MBDA** (Java Backend / Sécurisation) et **SM Shield** (CI/CD complet & Backend), ainsi qu'à divers projets de cybersécurité (Audit, CTF, Reverse Engineering).
 
