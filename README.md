@@ -68,6 +68,7 @@ Je continue d’approfondir mes compétences techniques pour intervenir sur des 
 
 | Projet | Description | Lien |
 |--------|-------------|------|
+| **Projet DevSecOps** | Déploiement sur AWS / Terraform / Production Ready / Scalable | [Voir](https://github.com/TekPi2r/fastapi-cloud-start-template) |
 | **SM-Shield** | Backend TypeScript / CI-CD complet (GitHub Actions, Docker, AWS, Azure) | *(Privé)* |
 | **MBDA (confidentiel)** | Backend Java + Obfuscation / Tests Unitaires | *(Non public)* |
 | **Carnet d’ordres (Finance)** | Simulation haute fréquence en C++ | *(Bientôt en ligne)* |
