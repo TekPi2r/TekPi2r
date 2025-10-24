@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d0a3b&height=250&section=header&text=Pierre%20Dallara&fontSize=42&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=250&section=header&text=Pierre%20Dallara&fontSize=42&fontColor=ffffff" alt="banner"/>
 </p>
 
 # ☁️ AWS Certified Cloud Practitioner | DevSecOps Engineer | Cloud & Security Enthusiast
@@ -65,11 +65,11 @@ Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backen
 
 | Project | Description | Link |
 |----------|-------------|------|
-| **FastAPI Cloud Start Template** | 🔥 DevSecOps-ready template: FastAPI + Terraform + AWS + OIDC CI/CD | [🔗 View](https://github.com/TekPi2r/fastapi-cloud-start-template) |
-| **SM-Shield** | TypeScript backend with CI/CD (GitHub Actions, Docker, AWS, Azure) | *(Private)* |
-| **MBDA (Confidential)** | Backend Java + Obfuscation / Unit testing & Security hardening | *(Not public)* |
-| **Web Security CTF** | Exploiting XSS, SQLi, XXE, IDOR & OWASP Top 10 | [🔗 View](https://github.com/pierre-dallara/web-security-ctf) |
-| **Offensive Infra Audit** | Internal pentest simulation and vulnerability analysis | [🔗 View](https://github.com/pierre-dallara/offensive-security-infra-audit) |
+| **FastAPI Cloud Start Template** | ⚙️ Modern FastAPI starter with MongoDB, Docker, GitHub Actions & Terraform — ready for AWS multi-cloud deployment and DevSecOps integration | [🔗 View](https://github.com/TekPi2r/fastapi-cloud-start-template) |
+| **Web Security CTF Writeups** | 🧠 Exploration of Web vulnerabilities (XSS, SQLi, IDOR...) through CTFs and detailed writeups | [🔗 View](https://github.com/TekPi2r/web-security-ctf-writeup) |
+| **Reverse Engineering CTF Writeups** | 🧩 Detailed solutions for reverse engineering challenges from cybersecurity labs | [🔗 View](https://github.com/TekPi2r/reverse-engineering-ctf-writeup) |
+| **Cryptography CTF Writeups** | 🔐 Challenges in cryptography (encryption, decryption, encoding...) with explanations | [🔗 View](https://github.com/TekPi2r/cryptography-ctf-writeup) |
+| **Offensive Security Infra Audit** | 🛡️ Infrastructure audit including Red Team scenarios & remediation recommendations | [🔗 View](https://github.com/TekPi2r/offensive-security-infra-audit) |
 
 ---
 
@@ -104,5 +104,5 @@ Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backen
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1d0a3b&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=100&section=footer" alt="footer"/>
 </p>
