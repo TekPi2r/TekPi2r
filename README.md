@@ -2,108 +2,97 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1d0a3b&height=250&section=header&text=Pierre%20Dallara&fontSize=42&fontColor=ffffff" alt="banner"/>
 </p>
 
-# 👨‍💻 Ingénieur DevSecOps | Cybersécurité (SOC) | DevOps
+# ☁️ AWS Certified Cloud Practitioner | DevSecOps Engineer | Cloud & Security Enthusiast
 
-Passionné par le cloud, l’automatisation et la sécurité.
-Spécialisé Cloud AWS, CI/CD et sécurité applicative.
-Expertise en conteneurisation, infrastructure as code (Terraform), cybersécurité
-offensive/défensive.
+Passionate about **Cloud, Automation, and Security** — I specialize in **AWS**, **CI/CD pipelines**, and **secure infrastructure** deployment.
 
-J’ai contribué à des projets critiques chez **MBDA** (Java Backend / Sécurisation) et **SM Shield** (CI/CD complet & Backend), ainsi qu'à divers projets de cybersécurité (Audit, CTF, Reverse Engineering).
+🎯 My current focus: building scalable, production-ready cloud environments with **Terraform, Docker, GitHub Actions (OIDC)** and **AWS best practices**.  
+🧠 Long-term: becoming a **Cloud Security Engineer (AWS Security Specialty)**.
 
-Je continue d’approfondir mes compétences techniques pour intervenir sur des projets à fort impact.
+Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backend DevOps), I now design secure, automated cloud workflows — bridging the gap between **DevOps** and **Security**.
 
 ---
 
-## 🚀 Stack Technique
+## 🚀 Tech Stack
 
-### 🔧 Langages
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+### 🔧 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 
-### 📦 Bases de données
-
+### 🧩 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)
 
-### ⚙️ DevOps / CI-CD
+### 🛡️ Security
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-grey?logo=amazonaws&logoColor=white)
+![IAM & RBAC](https://img.shields.io/badge/IAM%20%26%20RBAC-grey?logo=shield&logoColor=white)
+![AppSec](https://img.shields.io/badge/Application%20Security-grey?logo=shield&logoColor=white)
+![Threat Modeling](https://img.shields.io/badge/Threat%20Modeling-grey?logo=databricks&logoColor=white)
+![Red/Blue Team](https://img.shields.io/badge/Red%20Team%20%26%20Blue%20Team-grey?logo=fortinet&logoColor=white)
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
+### 🧰 Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-### ☁️ Cloud
+---
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=azure&logoColor=white)
+## 🧠 Certifications
 
-### 🛡️ Cybersécurité
-
-![Backend Security](https://img.shields.io/badge/Sécurisation%20Backend-grey?logo=shield&logoColor=white)
-![Obfuscation](https://img.shields.io/badge/Obfuscation-grey?logo=shield&logoColor=white)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-grey?logo=shield&logoColor=white)
-![Web Exploit](https://img.shields.io/badge/Web%20CTF%20(XSS%2C%20SQLi%2C%20IDOR)-grey?logo=bugatti&logoColor=white)
-![Audit Infra](https://img.shields.io/badge/Audit%20Infrastructure-grey?logo=linux&logoColor=white)
-![Red Team & Blue Team](https://img.shields.io/badge/Red%20Team%20%26%20Blue%20Team-grey?logo=fortinet&logoColor=white)
-
-### 🧰 Outils
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+| Certification | Date | Status |
+|---------------|------|--------|
+| **AWS Certified Cloud Practitioner** | Oct 2025 | ✅ Active |
+| **Cisco CCNA Level 1** | 2021 | 🕓 Expired |
+| *Next step:* AWS Solutions Architect – Associate | Nov 2025 | 🚧 In progress |
 
 ---
 
-## 📌 Projets sélectionnés
+## 📦 Selected Projects
 
-| Projet | Description | Lien |
-|--------|-------------|------|
-| **Projet DevSecOps** | Déploiement sur AWS / Terraform / Production Ready / Scalable | [Voir](https://github.com/TekPi2r/fastapi-cloud-start-template) |
-| **SM-Shield** | Backend TypeScript / CI-CD complet (GitHub Actions, Docker, AWS, Azure) | *(Privé)* |
-| **MBDA (confidentiel)** | Backend Java + Obfuscation / Tests Unitaires | *(Non public)* |
-| **Carnet d’ordres (Finance)** | Simulation haute fréquence en C++ | *(Bientôt en ligne)* |
-| **Projet ORION (Simulation spatiale)** | Mécanique orbitale, visualisation 3D, moteur de physique | *(Bientôt en ligne)* |
-| **Web Security CTF** | Vulnérabilités Web courantes (XSS, SQLi, XXE...) | [Voir](https://github.com/pierre-dallara/web-security-ctf) |
-| **Cryptographie CTF** | Résolution de challenges : Caesar, Vigenère, AES, RSA... | [Voir](https://github.com/pierre-dallara/cryptography-ctf) |
-| **Reverse Engineering CTF** | Décompilation & exploitation de binaires | [Voir](https://github.com/pierre-dallara/reverse-engineering-ctf) |
-| **Audit d’infrastructure Offensive** | Pentest interne, analyse de vulnérabilités & rapport | [Voir](https://github.com/pierre-dallara/offensive-security-infra-audit) |
+| Project | Description | Link |
+|----------|-------------|------|
+| **FastAPI Cloud Start Template** | 🔥 DevSecOps-ready template: FastAPI + Terraform + AWS + OIDC CI/CD | [🔗 View](https://github.com/TekPi2r/fastapi-cloud-start-template) |
+| **SM-Shield** | TypeScript backend with CI/CD (GitHub Actions, Docker, AWS, Azure) | *(Private)* |
+| **MBDA (Confidential)** | Backend Java + Obfuscation / Unit testing & Security hardening | *(Not public)* |
+| **Web Security CTF** | Exploiting XSS, SQLi, XXE, IDOR & OWASP Top 10 | [🔗 View](https://github.com/pierre-dallara/web-security-ctf) |
+| **Offensive Infra Audit** | Internal pentest simulation and vulnerability analysis | [🔗 View](https://github.com/pierre-dallara/offensive-security-infra-audit) |
 
 ---
 
-## 🧠 Plateformes de formation continue
+## 🧩 Continuous Learning Platforms
 
-### TryHackMe
-🎯 Rang : `Intermédiaire` — 36 rooms complétées  
-🧩 Web Exploit / Pentest / Network & OS / Metasploit / Burp Suite  
-🔗 [Voir mon profil](https://tryhackme.com/p/pierre.dallara)
+**AWS Cloud Quest (Cloud Practitioner)**  
+🟢 *Completed — 13/13 Quests* | Focus: Core AWS services, IAM, Security & Billing  
 
-### Root-Me
-🎯 Rang : `Intermédiaire` — 75 challenges résolus (Web, Reverse, Crypto, Réseau)  
-🔗 [Voir mon profil](https://www.root-me.org/pi2r)
+**TryHackMe** — 36 rooms completed *(Intermediate)*  
+[🔗 Profile](https://tryhackme.com/p/pierre.dallara)
 
-### Hack The Box
-🎯 Rang : `Intermédiaire` — Focus sur Network Pentest, Red Teaming et Reverse Engineering  
+**Root-Me** — 75+ challenges solved *(Web, Reverse, Crypto, Network)*  
+[🔗 Profile](https://www.root-me.org/pi2r)
 
 ---
 
-## 📄 Autres
+## 🧭 Roadmap 2025–2026
 
-- Certification équivalente **Cisco CCNA Level 1** (2021)
-- 🚧 Projets supplémentaires à venir sur mon GitHub
-- 🚧 Portfolio en cours de finalisation (sera lié ici)
+1️⃣ **AWS Solutions Architect – Associate (Nov 2025)**  
+2️⃣ **AWS SysOps Administrator – Associate (Q1 2026)**  
+3️⃣ **AWS Security – Specialty (Q2 2026)**  
+
+🎯 *Goal:* Cloud Engineer → Cloud Security Engineer within 12 months.  
 
 ---
 
