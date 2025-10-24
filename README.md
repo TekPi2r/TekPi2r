@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=250&section=header&text=Pierre%20Dallara&fontSize=42&fontColor=ffffff" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=250&section=header&text=Pierre%20Dallara&fontSize=42&fontColor=ffffff" alt="banner"/>
 </p>
 
 # ☁️ AWS Certified Cloud Practitioner | DevSecOps Engineer | Cloud & Security Enthusiast
 
 Passionate about **Cloud, Automation, and Security** — I specialize in **AWS**, **CI/CD pipelines**, and **secure infrastructure** deployment.
 
-🎯 My current focus: building scalable, production-ready cloud environments with **Terraform, Docker, GitHub Actions (OIDC)** and **AWS best practices**.  
+🎯 My current focus: building scalable, production-ready cloud environments with **Terraform, Docker, Kubernetes, GitHub Actions (OIDC)** and **AWS best practices**.  
 🧠 Long-term: becoming a **Cloud Security Engineer (AWS Security Specialty)**.
 
 Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backend DevOps), I now design secure, automated cloud workflows — bridging the gap between **DevOps** and **Security**.
@@ -19,6 +19,7 @@ Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backen
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
@@ -65,7 +66,9 @@ Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backen
 
 | Project | Description | Link |
 |----------|-------------|------|
-| **FastAPI Cloud Start Template** | ⚙️ Modern FastAPI starter with MongoDB, Docker, GitHub Actions & Terraform — ready for AWS multi-cloud deployment and DevSecOps integration | [🔗 View](https://github.com/TekPi2r/fastapi-cloud-start-template) |
+| **FastAPI Cloud Start Template** | ⚙️ Modern FastAPI starter with MongoDB, Docker, Kubernetes, GitHub Actions & Terraform — ready for AWS multi-cloud deployment and DevSecOps integration | [🔗 View](https://github.com/TekPi2r/fastapi-cloud-start-template) |
+| **MBDA** | 🛠️ Backend Java project — code obfuscation, unit testing, and security hardening for defense systems | *(Confidential - no public link)* |
+| **SM Shield** | 🔒 CI/CD & Backend DevOps — full pipeline (Docker, GitHub Actions, AWS, Azure), observability & AppSec integration | *(Private - no public link)* |
 | **Web Security CTF Writeups** | 🧠 Exploration of Web vulnerabilities (XSS, SQLi, IDOR...) through CTFs and detailed writeups | [🔗 View](https://github.com/TekPi2r/web-security-ctf-writeup) |
 | **Reverse Engineering CTF Writeups** | 🧩 Detailed solutions for reverse engineering challenges from cybersecurity labs | [🔗 View](https://github.com/TekPi2r/reverse-engineering-ctf-writeup) |
 | **Cryptography CTF Writeups** | 🔐 Challenges in cryptography (encryption, decryption, encoding...) with explanations | [🔗 View](https://github.com/TekPi2r/cryptography-ctf-writeup) |
@@ -79,7 +82,7 @@ Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backen
 🟢 *Completed — 13/13 Quests* | Focus: Core AWS services, IAM, Security & Billing  
 
 **TryHackMe** — 36 rooms completed *(Intermediate)*  
-[🔗 Profile](https://tryhackme.com/p/pierre.dallara)
+[🔗 Profile](https://tryhackme.com/p/pi2re)
 
 **Root-Me** — 75+ challenges solved *(Web, Reverse, Crypto, Network)*  
 [🔗 Profile](https://www.root-me.org/pi2r)
@@ -104,5 +107,5 @@ Formerly at **MBDA** (Java Backend & Security) and **SM Shield** (CI/CD & Backen
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF9900&height=100&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=100&section=footer" alt="footer"/>
 </p>
